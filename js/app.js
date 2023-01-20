@@ -29,7 +29,7 @@ tabsParent.addEventListener("click", (event) => {
                 slideIndex = i;
                 hideTabContent();
                 showTabContent(slideIndex);
-            }
+            } 
         });
     }
 });
